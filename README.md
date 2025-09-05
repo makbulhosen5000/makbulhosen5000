@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mhakash5000@gmail.com**
 
-- 📄 Know about my experiences [makbulportfolio.netlify.app](makbulportfolio.netlify.app)
+- 📄 Know about my portfolio [makbulportfolio.netlify.app](makbulportfolio.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
