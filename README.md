@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makbulhosen5000" alt="makbulhosen5000" /></a> </p>
 
-- 🔭 I’m currently working on [Laravel-React E-Commerce](https://github.com/makbulhosen5000/lara-react-ecom)
+- 🔭 I’m currently working on [Laravel-React LMS-Project](https://github.com/makbulhosen5000/LMS-project)
 
 - 👨‍💻 All of my projects are available at [https://github.com/makbulhosen5000/](https://github.com/makbulhosen5000/)
 
